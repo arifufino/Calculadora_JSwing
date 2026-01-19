@@ -1,0 +1,1 @@
+Calculadora simplete utilizando JDK.
